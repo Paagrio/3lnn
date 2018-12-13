@@ -1,0 +1,11 @@
+D:\Projects\3lnn\bin\Debug\netcoreapp2.1\3lnn.deps.json
+D:\Projects\3lnn\bin\Debug\netcoreapp2.1\3lnn.runtimeconfig.json
+D:\Projects\3lnn\bin\Debug\netcoreapp2.1\3lnn.runtimeconfig.dev.json
+D:\Projects\3lnn\bin\Debug\netcoreapp2.1\3lnn.dll
+D:\Projects\3lnn\bin\Debug\netcoreapp2.1\3lnn.pdb
+D:\Projects\3lnn\obj\Debug\netcoreapp2.1\3lnn.csprojAssemblyReference.cache
+D:\Projects\3lnn\obj\Debug\netcoreapp2.1\3lnn.csproj.CoreCompileInputs.cache
+D:\Projects\3lnn\obj\Debug\netcoreapp2.1\3lnn.AssemblyInfoInputs.cache
+D:\Projects\3lnn\obj\Debug\netcoreapp2.1\3lnn.AssemblyInfo.cs
+D:\Projects\3lnn\obj\Debug\netcoreapp2.1\3lnn.dll
+D:\Projects\3lnn\obj\Debug\netcoreapp2.1\3lnn.pdb
