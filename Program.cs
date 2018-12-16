@@ -40,8 +40,6 @@ namespace NeuralNetwork
           success++;
         }
       }
-      Console.WriteLine(nn.maxHidValue);
-      Console.WriteLine(nn.minHidValue);
     }
 
     private static double[] PixelsToVector(byte[] pixels)
