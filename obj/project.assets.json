@@ -681,28 +681,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nikolay\\.nuget\\packages\\": {},
+    "C:\\Users\\Stree\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "f:\\Projects\\3lnn\\3lnn.csproj",
+      "projectUniqueName": "D:\\Projects\\3lnn\\3lnn.csproj",
       "projectName": "3lnn",
-      "projectPath": "f:\\Projects\\3lnn\\3lnn.csproj",
-      "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-      "outputPath": "f:\\Projects\\3lnn\\obj\\",
+      "projectPath": "D:\\Projects\\3lnn\\3lnn.csproj",
+      "packagesPath": "C:\\Users\\Stree\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\3lnn\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Stree\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

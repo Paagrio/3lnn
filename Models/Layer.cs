@@ -1,13 +1,15 @@
+using System;
 using System.Collections.Generic;
 
 namespace NeuralNetwork
 {
-    public class Layer
+    [Serializable]
+    sealed class Layer
     {
-        public LayerTypes LayerType { get; set; }
+        public LayerType LayerType { get; set; }
         public List<Neuron> Neurons { get; set; }
 
-        public Layer(LayerTypes layerType)
+        public Layer(LayerType layerType)
         {
             LayerType = layerType;
             Neurons = new List<Neuron>();

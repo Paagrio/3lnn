@@ -20,3 +20,6 @@ F:\Projects\3lnn\obj\Debug\netcoreapp2.1\3lnn.AssemblyInfoInputs.cache
 F:\Projects\3lnn\obj\Debug\netcoreapp2.1\3lnn.AssemblyInfo.cs
 F:\Projects\3lnn\obj\Debug\netcoreapp2.1\3lnn.dll
 F:\Projects\3lnn\obj\Debug\netcoreapp2.1\3lnn.pdb
+D:\Projects\3lnn\bin\Debug\netcoreapp2.1\MNIST3LNN.dll
+D:\Projects\3lnn\bin\Debug\netcoreapp2.1\MNIST3LNN.pdb
+D:\Projects\3lnn\obj\Debug\netcoreapp2.1\3lnn.csproj.CopyComplete

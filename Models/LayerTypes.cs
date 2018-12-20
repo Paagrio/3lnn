@@ -1,6 +1,6 @@
 namespace NeuralNetwork
 {
-    public enum LayerTypes
+    public enum LayerType
     {
         HIDDEN,
         OUTPUT

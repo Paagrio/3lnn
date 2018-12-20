@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "3lnn/1.0.0": {
+        "dependencies": {
+          "MNIST3LNN": "1.0.0"
+        },
         "runtime": {
           "3lnn.dll": {}
+        }
+      },
+      "MNIST3LNN/1.0.0": {
+        "runtime": {
+          "MNIST3LNN.dll": {}
         }
       }
     }
   },
   "libraries": {
     "3lnn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MNIST3LNN/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
